@@ -1,7 +1,3 @@
-# CS407Demo
-
-A simple Git and GitHub demo for CS 407 Fall 2021.
-
 Steps
 
 1. Fork this repository to your own GitHub account. 
